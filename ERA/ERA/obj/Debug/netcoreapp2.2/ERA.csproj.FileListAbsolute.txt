@@ -1,0 +1,14 @@
+/Users/jared/Projects/ERA/ERA/bin/Debug/netcoreapp2.2/ERA.deps.json
+/Users/jared/Projects/ERA/ERA/bin/Debug/netcoreapp2.2/ERA.runtimeconfig.json
+/Users/jared/Projects/ERA/ERA/bin/Debug/netcoreapp2.2/ERA.runtimeconfig.dev.json
+/Users/jared/Projects/ERA/ERA/bin/Debug/netcoreapp2.2/ERA.dll
+/Users/jared/Projects/ERA/ERA/bin/Debug/netcoreapp2.2/ERA.pdb
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.csprojAssemblyReference.cache
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.csproj.CoreCompileInputs.cache
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.RazorAssemblyInfo.cache
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.RazorAssemblyInfo.cs
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.AssemblyInfoInputs.cache
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.AssemblyInfo.cs
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.RazorTargetAssemblyInfo.cache
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.dll
+/Users/jared/Projects/ERA/ERA/obj/Debug/netcoreapp2.2/ERA.pdb
